@@ -1,2 +1,2 @@
 # Pokemon-Battle
-Java Project from OSTC (May 2018)
+Java Project from Oakland Schools Technical Campus (OSTC) (May 2018)
